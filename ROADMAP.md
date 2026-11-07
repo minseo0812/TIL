@@ -38,7 +38,7 @@
 
 - [x] TIL 레포 폴더 정리 (frontend / git / deploy 폴더로 나누기)
 - [x] README.md에 목차 만들기
-- [ ] 이 ROADMAP.md를 TIL 레포에 올리기
+- [x] 이 ROADMAP.md를 TIL 레포에 올리기
 - [x] 깃허브 아이디 변경 후 `git remote set-url origin` 실행
 
 ---
